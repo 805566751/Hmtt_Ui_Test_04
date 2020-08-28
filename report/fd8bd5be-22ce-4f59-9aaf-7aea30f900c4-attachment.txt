@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pub_aritcle.py:36 文章标题BJ23_TESTER_NB_090822：

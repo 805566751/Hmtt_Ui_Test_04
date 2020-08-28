@@ -1,0 +1,111 @@
+[ {
+  "uid" : "3b74a4b7a25a54cc",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598517487526,
+    "stop" : 1598517489989,
+    "duration" : 2463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "128b632545ce5f84",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅1-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598432222736,
+    "stop" : 1598432235729,
+    "duration" : 12993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8619e1960cd9e45",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份工作！！-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598517491502,
+    "stop" : 1598517504809,
+    "duration" : 13307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b12595515ad6350c",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598517477355,
+    "stop" : 1598517477355,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa73e169fc0a1fc1",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！光头也帅2-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598432236267,
+    "stop" : 1598432244070,
+    "duration" : 7803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8334644f44d6655",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598432546423,
+    "stop" : 1598432547683,
+    "duration" : 1260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b2cadba5173352a",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598432538405,
+    "stop" : 1598432538406,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f52e34c4c5507660",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598517505565,
+    "stop" : 1598517513717,
+    "duration" : 8152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fd24c2f8c236ec1",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598517513752,
+    "stop" : 1598517520171,
+    "duration" : 6419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a80e48e3ee2fc713",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598432552981,
+    "stop" : 1598432559348,
+    "duration" : 6367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe46d4bc1ac034cd",
+  "name" : "test_aduit_ari_pass",
+  "time" : {
+    "start" : 1598432547697,
+    "stop" : 1598432552974,
+    "duration" : 5277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,320 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-0DNT813O",
+    "children" : [ {
+      "name" : "15908-MainThread",
+      "children" : [ {
+        "name" : "test_mis_login",
+        "uid" : "dfe62bed89346e1e",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432258364,
+          "stop" : 1598432259667,
+          "duration" : 1303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！光头也帅2-人工智能-新增文章成功]",
+        "uid" : "fa73e169fc0a1fc1",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432236267,
+          "stop" : 1598432244070,
+          "duration" : 7803
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2W的工作！！光头也帅2'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "82239bf851b5bc02",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432264773,
+          "stop" : 1598432271134,
+          "duration" : 6361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "98bf2f3e093d0e3",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432259679,
+          "stop" : 1598432264764,
+          "duration" : 5085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "b722ec52279ebcea",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432212665,
+          "stop" : 1598432212666,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "65813ce18ed3459e",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432250490,
+          "stop" : 1598432250491,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "621b586b671093e",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432219796,
+          "stop" : 1598432221678,
+          "duration" : 1882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "72349bfd8cd86a2a",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432244092,
+          "stop" : 1598432250482,
+          "duration" : 6390
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅1-软件测试-新增文章成功]",
+        "uid" : "128b632545ce5f84",
+        "parentUid" : "003f657a32d4dbffe886de4c84cbcbba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432222736,
+          "stop" : 1598432235729,
+          "duration" : 12993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅1'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      } ],
+      "uid" : "003f657a32d4dbffe886de4c84cbcbba"
+    }, {
+      "name" : "24364-MainThread",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "3b74a4b7a25a54cc",
+        "parentUid" : "eea353ddbbf6f829b1be18ca6ac1672b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517487526,
+          "stop" : 1598517489989,
+          "duration" : 2463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！-人工智能-新增文章成功]",
+        "uid" : "f52e34c4c5507660",
+        "parentUid" : "eea353ddbbf6f829b1be18ca6ac1672b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517505565,
+          "stop" : 1598517513717,
+          "duration" : 8152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2W的工作！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "b12595515ad6350c",
+        "parentUid" : "eea353ddbbf6f829b1be18ca6ac1672b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517477355,
+          "stop" : 1598517477355,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份工作！！-软件测试-新增文章成功]",
+        "uid" : "f8619e1960cd9e45",
+        "parentUid" : "eea353ddbbf6f829b1be18ca6ac1672b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517491502,
+          "stop" : 1598517504809,
+          "duration" : 13307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份工作！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "9fd24c2f8c236ec1",
+        "parentUid" : "eea353ddbbf6f829b1be18ca6ac1672b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517513752,
+          "stop" : 1598517520171,
+          "duration" : 6419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eea353ddbbf6f829b1be18ca6ac1672b"
+    }, {
+      "name" : "4860-MainThread",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "6b2cadba5173352a",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432538405,
+          "stop" : 1598432538406,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "a80e48e3ee2fc713",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432552981,
+          "stop" : 1598432559348,
+          "duration" : 6367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "fee1cccfdcc7d40e",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432532095,
+          "stop" : 1598432538398,
+          "duration" : 6303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "fe46d4bc1ac034cd",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432547697,
+          "stop" : 1598432552974,
+          "duration" : 5277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份工作！！-软件测试-新增文章成功]",
+        "uid" : "8d3df969b52d58ba",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432488506,
+          "stop" : 1598432501790,
+          "duration" : 13284
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份工作！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！-人工智能-新增文章成功]",
+        "uid" : "c083105e53896b8d",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432502631,
+          "stop" : 1598432532072,
+          "duration" : 29441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2W的工作！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "56fa9491048b237",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432458338,
+          "stop" : 1598432458338,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "cd926cdbc0e078f3",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432465871,
+          "stop" : 1598432467558,
+          "duration" : 1687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "d8334644f44d6655",
+        "parentUid" : "8664c2a8b059ecd811ba5cf5a1bd97cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432546423,
+          "stop" : 1598432547683,
+          "duration" : 1260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8664c2a8b059ecd811ba5cf5a1bd97cf"
+    } ],
+    "uid" : "3d4f42dff9204d98b7377f98aaeaa536"
+  } ]
+}

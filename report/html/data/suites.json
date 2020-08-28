@@ -1,0 +1,220 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_pub_aritcle",
+      "children" : [ {
+        "name" : "TestPubAritcle",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅1-软件测试-新增文章成功]",
+          "uid" : "128b632545ce5f84",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432222736,
+            "stop" : 1598432235729,
+            "duration" : 12993
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅1'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！光头也帅2-人工智能-新增文章成功]",
+          "uid" : "fa73e169fc0a1fc1",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432236267,
+            "stop" : 1598432244070,
+            "duration" : 7803
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'很想找一份月薪2W的工作！！光头也帅2'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份工作！！-软件测试-新增文章成功]",
+          "uid" : "f8619e1960cd9e45",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517491502,
+            "stop" : 1598517504809,
+            "duration" : 13307
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份工作！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2W的工作！！-人工智能-新增文章成功]",
+          "uid" : "f52e34c4c5507660",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517505565,
+            "stop" : 1598517513717,
+            "duration" : 8152
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'很想找一份月薪2W的工作！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "a7aae0c5d8100f11d7eb096939883723"
+      } ],
+      "uid" : "0959dbd21a3d7c5c8d31511d7d326651"
+    }, {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "b12595515ad6350c",
+          "parentUid" : "3c7444421aa48d967fd98d9d2953d445",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517477355,
+            "stop" : 1598517477355,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c7444421aa48d967fd98d9d2953d445"
+      } ],
+      "uid" : "5b3bf97fa043c3daa3460017b03b53db"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "3b74a4b7a25a54cc",
+          "parentUid" : "5268a13642b16d5069937046a2d4caa2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517487526,
+            "stop" : 1598517489989,
+            "duration" : 2463
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5268a13642b16d5069937046a2d4caa2"
+      } ],
+      "uid" : "6b60fc946431692c75234dc30a522d97"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "9fd24c2f8c236ec1",
+          "parentUid" : "f7918d47dc6a7a0e6a3c29baa36cc519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517513752,
+            "stop" : 1598517520171,
+            "duration" : 6419
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f7918d47dc6a7a0e6a3c29baa36cc519"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  }, {
+    "name" : "case.mis",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "6b2cadba5173352a",
+          "parentUid" : "92d6fd506fe15de715dba85c857b9e2c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432538405,
+            "stop" : 1598432538406,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "92d6fd506fe15de715dba85c857b9e2c"
+      } ],
+      "uid" : "1632d54204f30900ab8e5c2e54d882c8"
+    }, {
+      "name" : "test_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "d8334644f44d6655",
+          "parentUid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432546423,
+            "stop" : 1598432547683,
+            "duration" : 1260
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824"
+      } ],
+      "uid" : "6c3c7ab5edaf6b2b941fd82ff4665642"
+    }, {
+      "name" : "test_aritcal_manage",
+      "children" : [ {
+        "name" : "TestAricalMana",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "fe46d4bc1ac034cd",
+          "parentUid" : "c42737a8fbd1bd28b51f752a91ef527f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432547697,
+            "stop" : 1598432552974,
+            "duration" : 5277
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c42737a8fbd1bd28b51f752a91ef527f"
+      } ],
+      "uid" : "05ee9ee16e93c4f22441638ab3de99de"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "a80e48e3ee2fc713",
+          "parentUid" : "f2d59446f19e3bc6ded5462f07e92795",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432552981,
+            "stop" : 1598432559348,
+            "duration" : 6367
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f2d59446f19e3bc6ded5462f07e92795"
+      } ],
+      "uid" : "bf0c7b5b1f57bd0e2056e93fbd586b89"
+    } ],
+    "uid" : "161959b9461abb8732fe0e097cab26a7"
+  } ]
+}
